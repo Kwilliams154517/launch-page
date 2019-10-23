@@ -1,0 +1,19 @@
+body{
+    color: #FEADB9;
+}
+.navbar {
+    padding: 1rem;
+    background-color: #9799BA;
+}
+.btn-primary:hover {
+    background-color: blue;
+    color: white;
+  }
+  .hero-background-img {
+    background-image: url("file-name.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
